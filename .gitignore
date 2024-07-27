@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno
+.env
+
+# Base de datos SQLite
+instance/
+app.db
+
+# Configuraciones de VS Code
+.vscode/
+
+# Excluir configuraciones personales de VS Code
+.vscode/settings.json
+.vscode/extensions.json
+
+# Excluir SQLBrowser
+SQLBrowser/
