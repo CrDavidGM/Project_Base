@@ -7,9 +7,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Variables de entorno
-.env
-
 # Base de datos SQLite
 instance/
 app.db
